@@ -30,7 +30,7 @@
   "uid": "foobar123",
   "recipient": {
     "type": "email",
-    "identity": "apabian@masb.org",
+    "identity": "grokisky@masb.org",
     "hashed": false
   },
   "issuedOn":  1388534400,
