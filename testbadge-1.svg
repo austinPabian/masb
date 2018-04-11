@@ -23,24 +23,6 @@
 	<path class="st1" d="M192.2,161.6v50.7h15.1v14.3h-49.2v-14.3h15.8v-30.4c-1.9,0.9-4.2,1.9-7,2.9c-2.8,1-5.2,1.6-7.1,1.9v-14.5
 		c4.7-1,8.5-2.4,11.6-4.2c3.1-1.8,5.4-3.9,6.9-6.3H192.2z"/>
 </g>
-    
-    <openbadges:assertion verify="http://condescending-hugle-a16383.netlify.com/badge-assertion.json">
-    <![CDATA[
-       {
-         "uid": "foobar123",
-         "identity": {
-           "recipient": "apabian@masb.org",
-           "type": "email",
-           "hashed": false
-         }
-         "verify": {
-           "type": "hosted",
-           "url":"http://condescending-hugle-a16383.netlify.com/badge-assertion.json"
-         }
-         "issuedOn": "2018-04-11",
-         "badge": "http://condescending-hugle-a16383.netlify.com/rookie-badge-award.json"
-       }
-    ]]>
-  </openbadges:assertion>
+   
     
 </svg>
