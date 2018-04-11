@@ -1,0 +1,14 @@
+{
+  "uid": "foobar123",
+  "recipient": {
+    "type": "email",
+    "identity": "apabian@masb.org",
+    "hashed": false
+  },
+  "issuedOn":  1388534400,
+  "badge": "http://condescending-hugle-a16383.netlify.com/rookie-badge-class.json",
+  "verify": {
+    "type": "hosted",
+    "url": "http://condescending-hugle-a16383.netlify.com/rookie-badge-award.json"
+  }
+}
